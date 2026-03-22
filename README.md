@@ -50,15 +50,6 @@ npm run dev
 
 ---
 
-## 📜 Available Scripts
-
-* `npm run dev` — compile and run the app
-* `npm run build` — compile TypeScript to JavaScript
-* `npm start` — run compiled app
-* `npm run test` — run tests
-
----
-
 ## 🧠 How It Works
 
 The app runs as a REPL (Read-Eval-Print Loop):
